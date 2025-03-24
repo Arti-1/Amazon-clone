@@ -260,8 +260,10 @@ ul a {
 
 .pages {
     padding-top: 25px;
+    text-align: center;
 }
 
 .copyright {
     text-align: center;
+    margin-top: 5px;
 }
